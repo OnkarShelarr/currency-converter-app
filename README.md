@@ -84,10 +84,3 @@ src/
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
 - [ExchangeRate-API](https://www.exchangerate-api.com/) - Currency exchange rates API
 
-### License
-
-This project is licensed under the MIT License.
-
----
-
-Feel free to contribute or provide feedback!
